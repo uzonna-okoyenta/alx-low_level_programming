@@ -2,11 +2,13 @@
 
 /**
  *
- *  * main - main block
+ *main - main block
  *
- *   * Return: 0
+ *  *Description - using printf
  *
- *    */
+ *Return: 0
+ *
+ */
 
 int main(void)
 
