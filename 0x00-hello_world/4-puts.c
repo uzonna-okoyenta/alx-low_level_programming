@@ -4,8 +4,8 @@
  *
  *main - main block
  *
- *  *Description - using printf
- *
+ *  *Description - using the main function 
+ *this program prints "Programming is like building a multilingual puzzle,
  *Return: 0
  *
  */
