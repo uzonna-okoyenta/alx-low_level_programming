@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- *
  *main - main block
  *
- *  *Description - using the main function 
- *this program prints "Programming is like building a multilingual puzzle,
+ *  *Description - using the mai
+ *
  *Return: 0
  *
  */
