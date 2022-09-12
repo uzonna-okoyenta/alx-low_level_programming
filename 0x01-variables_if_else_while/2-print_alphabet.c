@@ -1,13 +1,13 @@
 #include <stdio.h>
 /*
- * main - entry point
- * Description - code to display lowercase alphabets
+ * main - the starting point of the program
+ * description - code to display lowercase alphabets
  * Return: 0
  */
 
 int main(void)
 {
-	char *str = "abcdefghijklmno
+	char *str = "abcdefghijklmno"
 
 			"pqrstuvwxyz";
 		puts(str);
