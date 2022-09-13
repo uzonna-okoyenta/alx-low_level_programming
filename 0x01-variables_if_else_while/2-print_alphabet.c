@@ -1,6 +1,6 @@
 #include <stdio.h>
-/*
- * main - the starting point of the program
+/**
+ * main - Main entry
  * Description - This program prints the alphabet in lowercase
  * Return: 0
  */
